@@ -16,6 +16,3 @@ Example input cities: [Example cities](cities.csv)
 
 Example input points: [Example points](points.csv)
 
-## Submission
-
-Please submit your source code via email or fork the project, edit & enhance the python class main.py and submit back
